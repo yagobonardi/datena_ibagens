@@ -5,3 +5,8 @@ h1 {
 div {
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
